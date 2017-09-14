@@ -7,18 +7,20 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import junit.framework.Assert;
 
 public class WordPressLogin_Simple_Definition {
 	
 	WebDriver driver;
 	
+	@SuppressWarnings("deprecation")
 	@Given("^Open wordpress application in chrome browser$")
 	public void Open_wordpress_application_in_chrome_browser() throws Throwable
 	{
 		
 		driver = new ChromeDriver();
 		driver.get("http://demosite.center/wordpress/wp-login.php");
-
+		
 	}
 
 	@When("^I enter valid username and password$")
@@ -34,6 +36,7 @@ public class WordPressLogin_Simple_Definition {
 	public void I_must_successfully_land_on_Dashboard_page() throws Throwable {
 		
 		System.out.println(driver.getTitle());
+		driver.quit();
 
 	}
 

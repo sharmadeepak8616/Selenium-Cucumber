@@ -6,7 +6,10 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="FeatureFiles", glue= {"Steps_Definition"})
-public class WordPressLogin_Simple_Runner {
+@CucumberOptions(
+		format = {"pretty" , "html:target/html"},
+		features="feature",
+		glue= {"Steps_Definition"})
+public class WordPress_AllPagesTitle_Runner {
 
 }

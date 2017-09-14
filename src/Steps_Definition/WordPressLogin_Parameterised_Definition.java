@@ -33,6 +33,7 @@ public class WordPressLogin_Parameterised_Definition {
 	@Then("^must successfully land on Dashboard page$")
 	public void must_successfully_land_on_Dashboard_page() throws Throwable {
 		System.out.println(driver.getTitle());
+		driver.quit();
 	}
 	
 	

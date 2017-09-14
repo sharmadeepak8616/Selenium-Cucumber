@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3795899599,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.openBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2487182932,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Generating report at the end of test execution",
+        "description": "",
+        "id": "this-is-to-learn-report-generation-in-cucumber-framework;generating-report-at-the-end-of-test-execution",
+        "after": [
+          {
+            "result": {
+              "duration": 348490424,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 312860421,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11837824820,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I open yahoo home url",
+            "match": {
+              "location": "Report_Cucumber_Definition.openyahoo()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8052585966,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on link",
+            "match": {
+              "location": "Report_Cucumber_Definition.clickOnLink(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "link",
+                  "News"
+                ],
+                "line": 6
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1020232311,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "page title must conatin link",
+            "match": {
+              "location": "Report_Cucumber_Definition.verifyTitleForLink()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "This is to learn Report generation in Cucumber framework",
+    "description": "",
+    "id": "this-is-to-learn-report-generation-in-cucumber-framework",
+    "keyword": "Feature",
+    "uri": "Report_Cucumber.feature"
+  }
+]

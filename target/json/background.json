@@ -1,0 +1,297 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 16321677996,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open yahoo home page",
+            "match": {
+              "location": "Background_Scenario_Definition.open_yahoo_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3129544380,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.openBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2475738851,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Test to print title of Yahoo news page",
+        "description": "",
+        "id": "this-is-to-demostrate-background-keyword-in-cucumber;test-to-print-title-of-yahoo-news-page",
+        "after": [
+          {
+            "result": {
+              "duration": 234593130,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 247088754,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10696378056,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on News",
+            "match": {
+              "location": "Background_Scenario_Definition.i_click_on_News()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 418454276,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "print title of Yahoo News",
+            "match": {
+              "location": "Background_Scenario_Definition.print_title_of_Yahoo_News()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 11232958274,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open yahoo home page",
+            "match": {
+              "location": "Background_Scenario_Definition.open_yahoo_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2684799153,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.openBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2498412651,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.openBrowser()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Test to print title of Yahoo Sports page",
+        "description": "",
+        "id": "this-is-to-demostrate-background-keyword-in-cucumber;test-to-print-title-of-yahoo-sports-page",
+        "after": [
+          {
+            "result": {
+              "duration": 257992313,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 254352114,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10616707680,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Sports",
+            "match": {
+              "location": "Background_Scenario_Definition.i_click_on_Sports()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 538080361,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "print title of Yahoo Sports",
+            "match": {
+              "location": "Background_Scenario_Definition.print_title_of_Yahoo_Sports()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10321574327,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open yahoo home page",
+            "match": {
+              "location": "Background_Scenario_Definition.open_yahoo_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2877407830,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.openBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2517482428,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.openBrowser()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Test to print title of Yahoo Mail page",
+        "description": "",
+        "id": "this-is-to-demostrate-background-keyword-in-cucumber;test-to-print-title-of-yahoo-mail-page",
+        "after": [
+          {
+            "result": {
+              "duration": 288379236,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_Hooks_Definition.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 280727199,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Scenario_TaggedHooks_Definition.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13363644677,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on Mail",
+            "match": {
+              "location": "Background_Scenario_Definition.i_click_on_Mail()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 306810563,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "print title of Yahoo Mail",
+            "match": {
+              "location": "Background_Scenario_Definition.print_title_of_Yahoo_Mail()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "This is to demostrate Background keyword in Cucumber",
+    "description": "",
+    "id": "this-is-to-demostrate-background-keyword-in-cucumber",
+    "keyword": "Feature",
+    "uri": "Background_Scenario.feature"
+  }
+]

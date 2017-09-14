@@ -2,25 +2,20 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cucumber-core-1.1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cucumber-java-1.1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cucumber-junit-1.1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cucumber-jvm-deps-1.0.3.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/cucumber-reporting-0.1.0.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/gherkin-2.12.1.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/junit-4.11.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/Cucumber_Jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/Cucumber_Jars/mockito-all-2.0.2-beta.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jxl-2.6.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/selenium-server-standalone-3.5.2.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/activation-1.1.1-hudson-1-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/commons-email-1.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/commons-email-1.5.jar"/>
-	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/curvesapi-1.04.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/javax.mail-api-1.5.5.jar"/>
 	<classpathentry kind="lib" path="/Users/deepaksharma/Documents/Study/Selenium Practice/Selenium-Cucumber/bin/JarFiles/jar_files/junit-4.12.jar"/>

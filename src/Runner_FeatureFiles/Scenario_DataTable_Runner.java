@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="FeatureFiles", glue= {"Steps_Definition"})
-public class WordPressLogin_Simple_Runner {
+@CucumberOptions(features="FeatureFiles", glue= {"Scenario_DataTable_Definition"})
+public class Scenario_DataTable_Runner {
 
 }
